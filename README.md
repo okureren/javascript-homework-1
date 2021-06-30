@@ -1,4 +1,4 @@
-# Patika Dev Bootstrap Patikası Odev 1
+#JavaScript Odev 1
 
 Y. Eren Okur
 | [Linkedin](https://www.linkedin.com/in/eren0kur/)
