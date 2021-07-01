@@ -56,6 +56,7 @@ function currentDate() {
     let getTime = hours + ":" + minutes + ":" + seconds + " " + doW;
     document.querySelector("#seconddiv").innerText = getTime;
     document.querySelector("#seconddiv").textContent = getTime;
+    setTimeout(currentDate, 1000);
 }
 
 
