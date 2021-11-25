@@ -1,8 +1,8 @@
-#JavaScript Odev 1
+#JavaScript Homework-1
 
 Y. Eren Okur
 | [Linkedin](https://www.linkedin.com/in/eren0kur/)
 
 ## Açıklama:
 
-[Patika](https://www.patika.dev/) adresindeki, Front-End Patikası/ JavaScript bölümünün ilk ödevi.
+First JavaScript homework[Patika](https://www.patika.dev/)
