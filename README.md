@@ -1,4 +1,4 @@
-#JavaScript Homework-1
+## JavaScript Homework-1
 
 Y. Eren Okur
 | [Linkedin](https://www.linkedin.com/in/eren0kur/)
